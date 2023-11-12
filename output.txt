@@ -1,0 +1,96 @@
+Sequence 1: UN Member states must use the UN’s upcoming Universal Periodic Review (UPR) on Bangladesh to hold the authorities to account for the gross human rights violations and rapidly deteriorating human rights situation in the country ahead of its general elections, said Amnesty International today. “Bangladesh’s fourth UPR is taking place at a time when human [&#8230;]
+
+Label:  UN, Score: 0.93719482421875
+Label:  International Justice, Score: 0.731397271156311
+Label:  Unlawful Detention, Score: 0.45114412903785706
+Label:  Unfair Trials, Score: 0.44957607984542847
+Label:  Youth and Human Rights, Score: 0.4292548894882202
+
+Sequence 2: More than a million signatures from people around the world have been gathered for an Amnesty International petition demanding an immediate ceasefire to end the unparalleled escalation of hostilities in Gaza and Israel since 7 October 2023. In response, Erika Guevara-Rosas, Senior Director of Research, Advocacy, Policy and Campaigns at Amnesty International, said: “The world [&#8230;]
+
+Label:  Armed Conflict, Score: 0.9214840531349182
+Label:  Internet and Social Media, Score: 0.6854938268661499
+Label:  Human Rights Defenders and Activists, Score: 0.6208479404449463
+Label:  International Justice, Score: 0.5040177702903748
+Label:  Freedom of Movement, Score: 0.49799391627311707
+
+Sequence 3: The Government of Pakistan must immediately halt the continued detentions, deportations and widespread harassment of Afghan refugees, said Amnesty International today. “Thousands of Afghan refugees are being used as political pawns to be returned to Taliban-ruled Afghanistan where their life and physical integrity could be at risk amidst an intensified crackdown on human rights and [&#8230;]
+
+Label:  Refugees, Score: 0.9655024409294128
+Label:  Unlawful Detention, Score: 0.9579640626907349
+Label:  Detention, Score: 0.9275810122489929
+Label:  Discrimination, Score: 0.8436014652252197
+Label:  International Justice, Score: 0.6752768158912659
+
+Sequence 4: Speaking out against injustice or joining a solidarity march are some of the few tools we – as peoples around the world – have available to try and effect change. Without the right to publicly and peacefully protest – to share messages on social media, write letters and sign petitions – people are silenced. And [&#8230;]
+
+Label:  Protests and Demonstrations, Score: 0.8306136727333069
+Label:  Internet and Social Media, Score: 0.6450163125991821
+Label:  Freedom of Movement, Score: 0.5574188232421875
+Label:  Technology and Human Rights, Score: 0.39436444640159607
+Label:  Freedom of Association, Score: 0.3544294834136963
+
+Sequence 5: In the last five years, the Colombian state has inadequately responded to the dangers faced by human rights defenders in the country, Amnesty International said today upon publishing a new report, Hope at risk: The lack of a safe space to defend human rights in Colombia continues. In light of the crisis, Amnesty International urges [&#8230;]
+
+Label:  Human Rights Defenders and Activists, Score: 0.7331787347793579
+Label:  COVID-1, Score: 0.41822442412376404
+Label:  International Justice, Score: 0.36483943462371826
+Label:  Technology and Human Rights, Score: 0.3232242166996002
+Label:  Internet and Social Media, Score: 0.30909034609794617
+
+Sequence 6: Reacting to a United Nations Environment Programme (UNEP) report today, showing that production of fossil fuels by 2030 will be more than double the limit required to keep global warming within the internationally agreed goal of 1.5°C above pre-industrial levels this century, Amnesty International’s Climate Justice Researcher Candy Ofime said: “Going into the COP28 climate [&#8230;]
+
+Label:  Climate Change, Score: 0.8911729454994202
+Label:  UN, Score: 0.8566951751708984
+Label:  Human Rights Defenders and Activists, Score: 0.6487124562263489
+Label:  International Justice, Score: 0.5590099692344666
+Label:  COVID-1, Score: 0.24165479838848114
+
+Sequence 7: As heads of state prepare to gather on 9 November 2023 for an international humanitarian conference in France, hosted by President Emmanuel Macron, to discuss the situation of the civilian population and to coordinate aid for the people of the occupied Gaza Strip, Amnesty International’s Secretary General, Agnès Callamard, said: “More than two million people [&#8230;]
+
+Label:  Internally Displaced People, Score: 0.6251717209815979
+Label:  Right to Food, Score: 0.20617663860321045
+Label:  COVID-1, Score: 0.15275976061820984
+Label:  Impunity, Score: 0.1479741483926773
+Label:  Freedom of Movement, Score: 0.13124562799930573
+
+Sequence 8: Israeli authorities have dramatically increased their use of administrative detention, a form of arbitrary detention, of Palestinians across the occupied West Bank; extended emergency measures that facilitate inhuman and degrading treatment of prisoners; and failed to investigate incidents of torture and death in custody over the past four weeks, Amnesty International said today.   Since 7 October, Israeli forces have detained more [&#8230;]
+
+Label:  Torture and other ill-treatment, Score: 0.947902262210846
+Label:  Detention, Score: 0.8523776531219482
+Label:  Unlawful Detention, Score: 0.830041766166687
+Label:  Death in Custody, Score: 0.693974494934082
+Label:  Impunity, Score: 0.666048526763916
+
+Sequence 9: Responding to the announcement that the Italian and Albanian Prime Ministers yesterday signed an agreement to construct two centres in Albania in which to detain people rescued at sea by Italian ships, including people seeking safety, Elisa De Pieri, Regional Researcher at Amnesty International said: This agreement is about refoulement, a practice which is banned [&#8230;]
+
+Label:  Unlawful Detention, Score: 0.9618858695030212
+Label:  Migrants, Score: 0.9496280550956726
+Label:  Detention, Score: 0.889677882194519
+Label:  Discrimination, Score: 0.862556517124176
+Label:  Unfair Trials, Score: 0.8188247680664062
+
+Sequence 10: Amnesty International reiterates its call for the immediate and unconditional release of all civilian hostages, some of them children, who have been held in the occupied Gaza Strip for a month after being abducted by Hamas and other armed groups on 7 October. Thousands of people have taken to the streets in Israel in recent [&#8230;]
+
+Label:  Children, Score: 0.9719560742378235
+Label:  Armed Conflict, Score: 0.8851398825645447
+Label:  Unlawful Detention, Score: 0.7995331287384033
+Label:  Armed Groups, Score: 0.72517329454422
+Label:  Terrorism, Score: 0.721777617931366
+
+Sequence 11: Responding to the forcible disappearance of Ukrainian human rights defender and prisoner of war Maksym Butkevych, whose whereabouts were last confirmed on 22 August, Amnesty International’s acting Eastern Europe and Central Asia Regional Director, Denis Krivosheev, said: “It has been eleven weeks since Maksym Butkevych’s whereabouts were last known. Given his sham trial, the nature [&#8230;]
+
+Label:  Disappearances, Score: 0.984995424747467
+Label:  Unlawful Detention, Score: 0.9752705097198486
+Label:  Human Rights Defenders and Activists, Score: 0.9320588707923889
+Label:  Unfair Trials, Score: 0.8841094374656677
+Label:  Killings and Disappearances, Score: 0.8832659721374512
+
+Sequence 12: Some might find information in this Press Release triggering. TikTok’s content recommender system and its invasive data collection practicespose a danger to young users of the platform by amplifying depressive and suicidal content that risk worsening existing mental health challenges, two companion reports released today by Amnesty International show. The two reports –Driven into the [&#8230;]
+
+Label:  Children, Score: 0.7858372926712036
+Label:  Technology and Human Rights, Score: 0.6303597092628479
+Label:  Internet and Social Media, Score: 0.5966470241546631
+Label:  Youth and Human Rights, Score: 0.49061495065689087
+Label:  Right to Health, Score: 0.4387151300907135
+
