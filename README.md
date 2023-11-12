@@ -1,2 +1,2 @@
 # classifier
-Multi-label classifier of Amnesty feed rss into WP labels.
+Multi-label classifier of Amnesty feed with WP labels.
